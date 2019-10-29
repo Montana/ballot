@@ -1,2 +1,2 @@
-# lib.rs
+# Ballot
 Attempting Rust for first time 
