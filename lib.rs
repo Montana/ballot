@@ -11,7 +11,7 @@ pub struct Ballot {
     voters: Map<Address, u32>,
 }
 
-type Result<T> = std::result::Result<T, String>; // define our own result type, for convenience
+type Result<T> = std::result::Result<T, String>;
 
 impl Ballot {
 
